@@ -1,0 +1,11 @@
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\bin\Debug\netcoreapp2.0\HW1005.deps.json
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\bin\Debug\netcoreapp2.0\HW1005.runtimeconfig.json
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\bin\Debug\netcoreapp2.0\HW1005.runtimeconfig.dev.json
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\bin\Debug\netcoreapp2.0\HW1005.dll
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\bin\Debug\netcoreapp2.0\HW1005.pdb
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\obj\Debug\netcoreapp2.0\HW1005.csprojResolveAssemblyReference.cache
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\obj\Debug\netcoreapp2.0\HW1005.csproj.CoreCompileInputs.cache
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\obj\Debug\netcoreapp2.0\HW1005.AssemblyInfoInputs.cache
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\obj\Debug\netcoreapp2.0\HW1005.AssemblyInfo.cs
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\obj\Debug\netcoreapp2.0\HW1005.dll
+C:\Users\JonathanHuang\Downloads\1105105355\HW1005\HW1005\HW1005\obj\Debug\netcoreapp2.0\HW1005.pdb
